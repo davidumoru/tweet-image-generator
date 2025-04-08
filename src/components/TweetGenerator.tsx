@@ -10,7 +10,7 @@ import {
   X,
 } from "lucide-react";
 import TweetCard from "./TweetCard";
-import html2canvas from "html2canvas";
+import html2canvas from "html2canvas-pro";
 
 function TweetGenerator() {
   const [formData, setFormData] = useState({
